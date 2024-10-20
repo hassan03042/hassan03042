@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <div align="center">
- <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  width="450" height="360"> 
-</div>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
-<div align="center">
-  <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" align="center">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&weight=900&pause=1000&color=8651F7&&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Hassan+;From+Pakistan+🇵🇰;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%E2%9C%8C"
       alt="Typing SVG"
       style="color: #3498db; font-size: 20px;"
     >
   </a>
+</div>
+<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<div align="center">
+  
 </div>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1a28adbdab3fbb859ff593fcb88c8af70f97abebd21879da637ac2855d5a98ea/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f3263373738655f38396430396333383062376234613039626364626362333239633437333462335f6d76322e676966">
 
