@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **muhammadhassan6948@gmail.com**
 
-- 📄 Know about my experiences [hassanabdulqadir.vercel.app/](hassanabdulqadir.vercel.app)
+- 📄 Know about my experiences [hassanabdulqadir.vercel.app](https://hassanabdulqadir.vercel.app)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
